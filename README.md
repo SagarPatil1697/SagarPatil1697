@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sagar Patil and I'm a recent graduate master student , currently living in Berlin</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating projects on Machine Learning<br>📚 I'm currently learning GenAI and AutoML<br>🎯 Goals: Lead Data Scientist<br>
 
 ###
 
