@@ -19,19 +19,21 @@
 ###
 
 <div align="left">
-  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="40" alt="javascript logo"  />
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://commons.wikimedia.org/wiki/File:PyTorch_logo_icon.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="file:///C:/Users/Sagar/Downloads/sql-database-generic-svgrepo-com.svg" height="40" alt="SQL logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="file:///C:/Users/Sagar/Downloads/tensorflow.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://commons.wikimedia.org/wiki/File:R_logo.svg" height="40" alt="R logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://en.m.wikipedia.org/wiki/File:NumPy_logo_2020.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="file:///C:/Users/Sagar/Downloads/aws-svgrepo-com.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="file:///C:/Users/Sagar/Downloads/docker-svgrepo-com.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
