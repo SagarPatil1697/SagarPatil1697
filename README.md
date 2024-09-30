@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://github.com/bwks/vendor-icons-svg/blob/master/python.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" height="40" alt="pytorch logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://github.com/bwks/vendor-icons-svg/blob/master/mysql-logo.svg" height="40" alt="MySQL logo"  />
   <img width="12" />
