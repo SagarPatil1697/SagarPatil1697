@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" height="40" alt="R logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="40" alt="R logo"  />
   <img width="12" />
   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" alt="numpy logo"  />
   <img width="12" />
@@ -36,6 +36,8 @@
   <img src="https://github.com/valohai/ml-logos/blob/master/spark.svg" height="40" alt="spark logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://github.com/bwks/vendor-icons-svg/blob/master/docker-logo.svg" height="40" alt="docker logo"  />
   <img width="12" />
