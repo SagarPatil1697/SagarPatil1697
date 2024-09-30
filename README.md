@@ -25,11 +25,13 @@
   <img width="12" />
   <img src="file:///C:/Users/Sagar/Downloads/sql-database-generic-svgrepo-com.svg" height="40" alt="SQL logo"  />
   <img width="12" />
-  <img src="file:///C:/Users/Sagar/Downloads/tensorflow.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://commons.wikimedia.org/wiki/File:R_logo.svg" height="40" alt="R logo"  />
   <img width="12" />
-  <img src="https://en.m.wikipedia.org/wiki/File:NumPy_logo_2020.svg" height="40" alt="numpy logo"  />
+  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="file:///C:/Users/Sagar/Downloads/aws-svgrepo-com.svg" height="40" alt="aws logo"  />
   <img width="12" />
