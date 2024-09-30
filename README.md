@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://github.com/valohai/ml-logos/blob/master/spark.svg" height="40" alt="spark logo"  />
   <img width="12" />
-  <img src="https://en.wikipedia.org/wiki/File:Amazon_Web_Services_Logo.svg" height="40" alt="aws logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="file:///C:/Users/Sagar/Downloads/docker-svgrepo-com.svg" height="40" alt="docker logo"  />
   <img width="12" />
