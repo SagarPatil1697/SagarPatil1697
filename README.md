@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://en.m.wikipedia.org/wiki/File:PyTorch_logo_black.svg" height="40" alt="pytorch logo"  />
+  <img src="file:///C:/Users/Sagar/Downloads/pytorch.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="file:///C:/Users/Sagar/Downloads/sql-database-generic-svgrepo-com.svg" height="40" alt="SQL logo"  />
   <img width="12" />
