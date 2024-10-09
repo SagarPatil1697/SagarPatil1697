@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating projects on Machine Learning<br>📚 I'm currently learning GenAI and AutoML<br>🎯 Goals: Lead Data Scientist<br>
+<p align="left">✨ Creating projects on Machine Learning, Deep Learning, Natural Language Processing (NLP), MLOps, Generative AI (GenAI)<br>📚 I'm currently learning GenAI and AutoML<br>🎯 Goals: Lead Data Scientist<br>
 
 ###
 
